@@ -1,4 +1,4 @@
-# USTATY NAME GENERATOR
+# Ustaty Name Generator
 
 A random name generator for ustaty server name suggestions. 
 
