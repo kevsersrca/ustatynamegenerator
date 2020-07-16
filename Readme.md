@@ -9,7 +9,7 @@ git clone https://github.com/ustaty/ustatynamegenerator.git
 ```
 
 ## Usage
-```shell script
+```go
 package main
 
 import (
